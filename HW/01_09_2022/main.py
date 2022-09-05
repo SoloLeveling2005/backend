@@ -1,0 +1,1 @@
+print('QH QD JC KD JS'.split("  "))
